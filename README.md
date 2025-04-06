@@ -1,34 +1,33 @@
-# 🤝 SkillSync
+# 📦 Inventory Management System
 
-**SkillSync** is a volunteer matching web app created using **HTML**, **CSS**, and **JavaScript**. The goal of this project is to help users find volunteers whose skills align with their own. Users can input their name and skills, and the system will display other users with matching skills.
+A simple and responsive **Inventory Management** web application developed using **HTML**, **CSS**, and **JavaScript**. This project allows users to add, view, and manage items in an inventory list with details like name, quantity, and category.
 
 ---
 
 ## 🔍 Features
 
-- 📝 Enter name and a list of skills
-- 🔍 Match users based on similar skills
-- 📋 View matched volunteers dynamically
-- 🎨 Clean UI built with HTML and CSS
-- ⚙️ Interactive logic powered by vanilla JavaScript
+- ➕ Add inventory items with name, quantity, and category  
+- 📋 View a dynamic list of items  
+- 🗑️ Delete individual items from the list  
+- 🎨 Clean UI using HTML and CSS  
+- ⚙️ Interactive logic with vanilla JavaScript  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+- **Frontend**: HTML, CSS, JavaScript  
+- **Logic**: Vanilla JavaScript for DOM manipulation and interaction  
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Run
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/suvetharani/SkillSync.git
-cd SkillSync
+git clone https://github.com/suvetharani/Inventory_Management.git
+cd Inventory_Management
 ```
 
 🙋‍♀️ Author
